@@ -32,6 +32,6 @@
   },
   "devDependencies": {
     "coffeescript": "^2.3.2",
-    "jest": "^16.0.2"
+    "jest": "^23.6.0"
   }
 }
